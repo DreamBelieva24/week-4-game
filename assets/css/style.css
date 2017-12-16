@@ -1,0 +1,25 @@
+body {
+    font-family: 'Trade Winds', cursive;
+    font-size: 32px;
+    
+    margin: 25px;
+    background-image: url("http://www.draplin.com/pics/goonies_painting.jpg");
+    background-repeat:no-repeat;
+    background-size: 500px;
+    background-color: black;
+    color: white;
+    background-position: top right;
+    
+}
+
+
+h1 {
+    font-weight: bold;
+    font-size: 46px;
+    
+    
+}
+
+#small {
+    font-size: 18px;
+}
